@@ -1,0 +1,61 @@
+city,place,category,zone,price_eur,duration_hours,rating,indoor,best_time,crowd_level,interest_tags,budget_level
+Rome,Colosseum,History,Centro Storico,18,2.0,4.8,False,morning,high,history;architecture,medium
+Rome,Roman Forum,History,Centro Storico,18,2.0,4.7,False,morning,high,history;archaeology,medium
+Rome,Pantheon,History,Centro Storico,5,1.0,4.8,False,morning,high,history;architecture,low
+Rome,Trevi Fountain,Landmark,Centro Storico,0,0.75,4.7,False,evening,high,architecture;photography,free
+Rome,Piazza Navona,Landmark,Centro Storico,0,1.0,4.7,False,evening,medium,architecture;food;photography,free
+Rome,Vatican Museums,Museum,Vatican,25,3.0,4.7,True,morning,high,art;history,high
+Rome,St Peter's Basilica,Religious,Vatican,0,1.5,4.8,True,morning,high,history;architecture,free
+Rome,Trastevere,Food,Trastevere,15,2.0,4.6,False,evening,medium,food;local-life,medium
+Rome,Villa Borghese,Park,Borghese,0,1.5,4.6,False,afternoon,low,nature;relaxation,free
+Rome,Galleria Borghese,Museum,Borghese,15,2.0,4.8,True,afternoon,medium,art;history,medium
+Rome,Campo de' Fiori,Market,Centro Storico,10,1.0,4.4,False,morning,medium,food;local-life,low
+Rome,Castel Sant'Angelo,History,Prati,16,1.5,4.6,True,afternoon,medium,history;views,medium
+Paris,Louvre Museum,Museum,1st arrondissement,22,3.0,4.8,True,morning,high,art;history,high
+Paris,Eiffel Tower,Landmark,7th arrondissement,29,2.0,4.7,False,evening,high,architecture;views;photography,high
+Paris,Notre-Dame Area,Landmark,4th arrondissement,0,1.0,4.7,False,morning,high,history;architecture,free
+Paris,Montmartre,Neighborhood,18th arrondissement,0,2.0,4.7,False,afternoon,medium,art;local-life;photography,free
+Paris,Sacré-Cœur,Religious,18th arrondissement,0,1.0,4.7,True,afternoon,medium,architecture;views,free
+Paris,Musée d'Orsay,Museum,7th arrondissement,16,2.5,4.8,True,morning,medium,art;history,medium
+Paris,Luxembourg Gardens,Park,6th arrondissement,0,1.5,4.7,False,afternoon,low,nature;relaxation,free
+Paris,Le Marais,Neighborhood,4th arrondissement,10,2.0,4.6,False,afternoon,medium,food;shopping;local-life,low
+Paris,Sainte-Chapelle,Religious,1st arrondissement,13,1.0,4.8,True,morning,medium,history;architecture,medium
+Paris,Canal Saint-Martin,Neighborhood,10th arrondissement,0,1.5,4.5,False,evening,low,local-life;relaxation,free
+Paris,Marché des Enfants Rouges,Market,3rd arrondissement,15,1.5,4.5,True,lunch,medium,food;local-life,medium
+Paris,Arc de Triomphe,Landmark,8th arrondissement,13,1.0,4.7,False,evening,high,history;views,medium
+Barcelona,Sagrada Família,Landmark,Eixample,26,2.0,4.8,True,morning,high,architecture;history,high
+Barcelona,Park Güell,Park,Gràcia,10,2.0,4.7,False,morning,high,architecture;nature;photography,low
+Barcelona,Gothic Quarter,Neighborhood,Ciutat Vella,0,2.0,4.7,False,afternoon,medium,history;architecture;local-life,free
+Barcelona,Casa Batlló,Landmark,Eixample,35,1.5,4.7,True,afternoon,high,architecture;art,high
+Barcelona,La Boqueria,Market,Ciutat Vella,15,1.5,4.5,True,lunch,high,food;local-life,medium
+Barcelona,Montjuïc,Landmark,Sants-Montjuïc,0,2.5,4.6,False,afternoon,medium,views;nature;history,free
+Barcelona,Picasso Museum,Museum,El Born,14,2.0,4.6,True,morning,medium,art;history,medium
+Barcelona,Barceloneta Beach,Beach,Barceloneta,0,2.0,4.5,False,afternoon,medium,relaxation;nature,free
+Barcelona,Palau de la Música Catalana,Landmark,Ciutat Vella,18,1.5,4.8,True,afternoon,medium,architecture;music,medium
+Barcelona,Gràcia District,Neighborhood,Gràcia,0,2.0,4.6,False,evening,low,food;local-life,free
+Barcelona,MNAC,Museum,Sants-Montjuïc,12,2.0,4.7,True,morning,low,art;history,medium
+Barcelona,Bunkers del Carmel,Viewpoint,Horta-Guinardó,0,1.5,4.7,False,sunset,medium,views;photography,free
+Lisbon,Belém Tower,Landmark,Belém,8,1.0,4.6,False,morning,medium,history;architecture,low
+Lisbon,Jerónimos Monastery,Religious,Belém,12,1.5,4.7,True,morning,medium,history;architecture,medium
+Lisbon,Alfama,Neighborhood,Alfama,0,2.0,4.7,False,afternoon,medium,history;local-life;photography,free
+Lisbon,São Jorge Castle,History,Alfama,15,2.0,4.6,False,morning,medium,history;views,medium
+Lisbon,Time Out Market,Market,Cais do Sodré,18,1.5,4.5,True,lunch,high,food;local-life,medium
+Lisbon,Praça do Comércio,Landmark,Baixa,0,1.0,4.7,False,afternoon,medium,architecture;photography,free
+Lisbon,Oceanário de Lisboa,Museum,Parque das Nações,25,2.5,4.8,True,morning,medium,nature;family,high
+Lisbon,LX Factory,Neighborhood,Alcântara,10,2.0,4.5,False,afternoon,medium,food;art;shopping,low
+Lisbon,Miradouro da Senhora do Monte,Viewpoint,Graça,0,1.0,4.8,False,sunset,medium,views;photography,free
+Lisbon,National Tile Museum,Museum,São Vicente,8,1.5,4.7,True,morning,low,art;history,low
+Lisbon,Chiado,Neighborhood,Chiado,0,1.5,4.6,False,evening,medium,shopping;local-life;food,free
+Lisbon,Tram 28 Route,Experience,Central Lisbon,3,1.0,4.4,True,morning,high,local-life;transport,low
+London,British Museum,Museum,Bloomsbury,0,3.0,4.8,True,morning,high,history;art,free
+London,Tower of London,History,Tower Hill,35,3.0,4.7,True,morning,high,history;architecture,high
+London,Tower Bridge,Landmark,Southwark,13,1.5,4.7,True,afternoon,high,architecture;views,medium
+London,Hyde Park,Park,Westminster,0,1.5,4.7,False,afternoon,low,nature;relaxation,free
+London,Camden Market,Market,Camden,15,2.0,4.5,False,lunch,high,food;shopping;local-life,medium
+London,National Gallery,Museum,Trafalgar Square,0,2.0,4.8,True,morning,medium,art;history,free
+London,Westminster Abbey,Religious,Westminster,29,1.5,4.7,True,morning,high,history;architecture,high
+London,Borough Market,Market,Southwark,18,1.5,4.6,True,lunch,high,food;local-life,medium
+London,Greenwich,Neighborhood,Greenwich,0,3.0,4.6,False,afternoon,medium,history;views;local-life,free
+London,Sky Garden,Viewpoint,City of London,0,1.0,4.7,True,evening,medium,views;photography,free
+London,Covent Garden,Neighborhood,West End,10,1.5,4.6,False,evening,high,shopping;food;local-life,low
+London,Natural History Museum,Museum,South Kensington,0,2.5,4.8,True,morning,high,science;nature;family,free
