@@ -1,6 +1,6 @@
 # Multi-Agent Travel Recommender
 
-Multi-Agent Travel Recommender es un proyecto académico desarrollado en Google Colab para la asignatura de Big Data de la UJI.
+Multi-Agent Travel Recommender es un proyecto académico desarrollado en Google Colab para una asignatura de Big Data.
 
 El objetivo del proyecto es analizar un conjunto de datos de viajes mediante Pandas y utilizar dos agentes con responsabilidades diferenciadas para procesar la información y generar recomendaciones de itinerarios.
 
@@ -17,11 +17,11 @@ Dataset de viajes
         ↓
 Procesamiento con Pandas
         ↓
-Agente de análisis
+Agente 1 de análisis
         ↓
-Información estructurada
+Información estructurada de salida
         ↓
-Agente de recomendación
+Agente 2 de recomendación
         ↓
 Itinerario recomendado
 ```
